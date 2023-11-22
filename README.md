@@ -11,3 +11,5 @@ Aprendendo ->
 • Comparator objeto de expressão lambda com chaves
 • Comparator objeto de expressão lambda sem chaves
 • Comparator expressão lambda "direto no argumento"
+
+Por fim, aprendi as expressões lambdas com uso das interfaces Predicate, Consumer e Function. Onde comecei a usar os metódos estaticos das interfaces e depois aprendi a utiliza-lós dentro da própria classe com a arrow function(expressão lambda). 
